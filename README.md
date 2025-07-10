@@ -30,7 +30,7 @@ web-calculator/
 ├── script.js # Calculator logic
 └── README.md # Project documentation
 ---
-![Screenshot](assets/![Screenshot (195)](https://github.com/user-attachments/assets/92b15024-573c-4074-9003-fdce25463de1)
+![Screenshot (195)](https://github.com/user-attachments/assets/92b15024-573c-4074-9003-fdce25463de1)
 )
 
 ## 🚀 Getting Started
